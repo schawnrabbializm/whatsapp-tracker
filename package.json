@@ -1,0 +1,19 @@
+{
+  "name": "schawn-tracker",
+  "version": "1.0.0",
+  "description": "schawn tracker derler canim",
+  "main": "index.js",
+  "scripts": {
+    "test": "node schawn.js"
+  },
+  "keywords": [
+    "schawn",
+    "schawnrabbializm"
+  ],
+  "author": "schawn",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "puppeteer": "^13.0.1"
+  }
+}
